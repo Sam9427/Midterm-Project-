@@ -1,0 +1,21 @@
+body{
+    background-color: #ffb3ec;
+    color: #cc0099;
+    font-family: Times New Roman, arial, sans-serif;
+}
+
+h1{
+    color: #ffffff;
+    font-family: Times New Roman, sans-serif;
+    font-size: 35px;
+}
+
+a{
+    color: #FDF5E6;
+}
+
+.center{
+    max-width: 100% ;
+    height: auto;
+    margin: 0 0 3px 0;
+}
